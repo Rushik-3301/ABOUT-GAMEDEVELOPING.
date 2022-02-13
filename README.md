@@ -57,3 +57,6 @@ HTML: is a markup language used to customize the function and appearance of web 
 JavaScript: A web-programming language used to create effects within a web browser.
 
 When it comes right down to it, these are merely the different avenues you can take when programming your game.
+# conclusion
+* IF U WANT TO MAKE UR CARIER IN GAME DEVELOPING SO CHECK OUT AN OTHER FILE AND THX U ALL...
+
